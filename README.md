@@ -3,6 +3,8 @@
 Install ClipChick on Apple Silicon Macs running macOS 14 or later:
 
 ```sh
+brew tap shlomii/tap
+brew trust --cask shlomii/tap/clipchick
 brew install --cask shlomii/tap/clipchick
 ```
 
