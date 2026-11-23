@@ -1,6 +1,6 @@
 cask "clipchick" do
-  version "0.1.0-beta.9"
-  sha256 "5bbc6a3f117513af2e2f221506cc7a6b047a72b8f39eef8c4e97631d06e604b0"
+  version "0.1.0-beta.10"
+  sha256 "2b9d841cd7f1a300edf1b6ee4fcf20d2707c1016be4824a69e4e3ca021ee507c"
 
   url "https://clipchick.com/downloads/ClipChick-#{version}-arm64.dmg"
   name "ClipChick"
